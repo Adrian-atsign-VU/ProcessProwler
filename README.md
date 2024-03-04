@@ -28,7 +28,7 @@ To use ProcessProwler:
 
 ## Note
 
-This application is developed and "maintained" by Adrian. If you encounter any issues or have suggestions for improvements, feel free to reach out or contribute to the project on [GitHub](https://github.com/yourusername/ProcessProwler).
+This application is developed and "maintained" by Adrian. If you encounter any issues or have suggestions for improvements, feel free to reach out or contribute to the project on [GitHub](https://github.com/Adrian-atsign-VU/ProcessProwler).
 
 I hope and want people to use and help build this up! Enjoy.
 
