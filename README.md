@@ -26,6 +26,7 @@ To use ProcessProwler:
 - `psutil`: Library for retrieving system/process information.
 - `tkinter`: Library for GUI.
 - `datetime`: Library for handling date and time.
+- `Image, ImageTk`: Library for icon gui handling.
 
 ## Note
 
