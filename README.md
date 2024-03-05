@@ -11,7 +11,11 @@ ProcessProwler uses the `psutil` library to retrieve system and process informat
 - **Writing to a text file:** It writes the retrieved process names along with the current date and time to a specified text file.
 - **GUI for user interaction:** ProcessProwler has a basic interface.
 - **Error handling:** The application handles exceptions by displaying error messages if any issues occur during the process.
-
+- 
+## Want To Add
+- [ ] Add exe/app for windwos and mac users to run in one click.
+- [ ] More system info at top of txt (once generated).
+- [ ] Want to add html and css to style gui (python to hard and ugly for gui).
 ## Usage
 
 To use ProcessProwler:
